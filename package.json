@@ -1,0 +1,14 @@
+{
+  "name": "matic2matic",
+  "version": "1.0.0",
+  "description": "Matic to Matic wallet transfer using web3 without smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raja Ragavan",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9"
+  }
+}
